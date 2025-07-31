@@ -9,3 +9,7 @@
 .section speakers * {
     color: white !important!
 }
+
+.speaker-details ng-tns-c516894903-2 ng-trigger ng-trigger-expandIn ng-star-inserted * {
+    color: white !important;
+}
