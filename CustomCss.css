@@ -1,3 +1,6 @@
+/* Import Inter font from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
 .speaker-profile-overlay * {
     color: white !important;
 }
@@ -13,3 +16,16 @@
 #speakers-section * {
     color: white !important;
 }
+
+/* Body styling */
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+/* Headings */
+h1, h2, h3 {
+  font-family: 'Inter', sans-serif;
+}
+
+
+
