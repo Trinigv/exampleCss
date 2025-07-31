@@ -3,5 +3,9 @@
 }
 
 .speaker-details * {
-    color: white
+    color: white !important!
+}
+
+.section speakers * {
+    color: white !important!
 }
