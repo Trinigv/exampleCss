@@ -1,4 +1,3 @@
-/* Global text color: black */
 body,
 p,
 .title,
@@ -9,11 +8,26 @@ p,
 .form-field,
 .speakers-wrapper,
 label,
-.event-questions-form {
-  color: black;
+.event-questions-form,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+span,
+div,
+a,
+ul,
+ol,
+li,
+input,
+textarea,
+button {
+  color: black !important;
 }
 
-/* FAQ section: white */
+/* ❗️ FAQ section - white overrides */
 .faq-wrapper,
 .faq-wrapper * {
   color: white !important;
