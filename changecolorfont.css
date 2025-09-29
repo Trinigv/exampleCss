@@ -1,34 +1,36 @@
-body,
-p,
-.title,
-.speaker-details,
-.speaker-name,
-.speaker-title,
-.speaker-company-title,
-.form-field,
-.speakers-wrapper,
-label,
-.event-questions-form,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-span,
-div,
-a,
-ul,
-ol,
-li,
-input,
-textarea,
-button {
-  color: black !important;
-}
+p { 
+  color: black !important; } 
 
-/* ❗️ FAQ section - white overrides */
-.faq-wrapper,
-.faq-wrapper * {
-  color: white !important;
-}
+.title { color: black !important; 
+       } 
+
+.speaker-details { 
+  color: black !important; 
+      } 
+
+.speaker-name { 
+  color: black !important; } 
+
+.speaker-title { 
+  color: black !important; 
+               } 
+.speaker-company-title { 
+  color: black !important; 
+} 
+
+.form-field { 
+  color: black !important; 
+} 
+
+.speakers-wrapper { 
+  color: black !important; 
+} 
+
+label { color: black !important; 
+      } 
+
+.event-questions-form { 
+  color: black !important; } 
+
+.faq-wrapper * { 
+  color: white !important; }
