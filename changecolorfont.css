@@ -42,11 +42,8 @@ label {
   color: black !important;
 }
 
-.faq-wrapper {
+.faq-wrapper * {
   color: white !important;
 }
 
-#faqs-section {
-  color: white !important;
-}
 
