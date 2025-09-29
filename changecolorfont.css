@@ -30,6 +30,10 @@ p {
    color: black !important; 
 }
 
+label {
+  color: black !important;
+}
+
 .faq-panel {
   color: white !important
 }
