@@ -41,13 +41,9 @@ label { color: black !important;
 }
 
 .event-name {
-   color: white !important; 
+   color: black !important; 
 }
 
 .event-where-when {
-  color: white !important;
-}
-
-.event-details-container {
-  color: white !important;
+  color: black  !important;
 }
