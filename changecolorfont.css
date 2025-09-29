@@ -47,3 +47,7 @@ label { color: black !important;
 .event-where-when {
   color: white !important;
 }
+
+.event-details-container {
+  color: white !important;
+}
