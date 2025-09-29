@@ -39,3 +39,11 @@ label { color: black !important;
 .navbar-var {
   color: white !important;
 }
+
+.event-name {
+   color: white !important; 
+}
+
+.event-where-when {
+  color: white !important;
+}
