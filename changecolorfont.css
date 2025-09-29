@@ -5,3 +5,23 @@ body {
 p {
   color: black !important;
 }
+
+.speaker-details {
+  color: black !important; 
+}
+
+.speaker-name {
+   color: black !important; 
+}
+
+.speaker-title {
+   color: black !important; 
+}
+
+.speakers-wrapper {
+   color: black !important; 
+}
+
+.faq-answer {
+  color: white !important;
+}
