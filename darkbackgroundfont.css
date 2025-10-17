@@ -1,0 +1,35 @@
+.speaker-profile-overlay * {
+    color: white !important;
+}
+
+.speaker-details * {
+    color: white !important!
+}
+
+.section speakers * {
+    color: white !important!
+}
+
+#speakers-section * {
+    color: white !important;
+}
+
+.tickets-content .title {
+  color: white !important; 
+}
+
+.step-title * {
+  color: white !important;
+}
+
+.status-information h1 {
+  color: white !important;
+}
+
+.step-label {
+  color: white !important;
+}
+
+h4 {
+  color: white !important;
+}
