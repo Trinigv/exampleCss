@@ -1,0 +1,11 @@
+/* Make the overview main act like a vertical flex list */
+bt-master-event-ui-overview main.main {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Put the Recap custom-content section first */
+#a1OKa000001ohTxMAI { order: 1; }
+
+/* Tickets section after it */
+#tickets-section { order: 2; }
