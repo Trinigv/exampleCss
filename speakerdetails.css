@@ -18,12 +18,16 @@
   color: white !important;
 }
 
+.speaker-company-title ng-tns-c516894903-2 ng-star-inserted {
+    color: white !important;
+}
+
 .speaker-bio,
 .speaker-bio p,
 .speaker-bio span {
-  color: #ffffff;
+  color: white !important;
 }
 
 .speaker-company-title {
-  color: #ffffff;
+    color: white !important;
 }
