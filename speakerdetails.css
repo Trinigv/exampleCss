@@ -18,6 +18,8 @@
   color: white !important;
 }
 
-#speaker-section p {
-  color: white !important;
+.speaker-bio,
+.speaker-bio p,
+.speaker-bio span {
+  color: #ffffff;
 }
